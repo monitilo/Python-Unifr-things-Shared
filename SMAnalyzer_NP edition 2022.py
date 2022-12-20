@@ -1791,7 +1791,7 @@ class smAnalyzer(pg.Qt.QtGui.QMainWindow):
         self.bgroiSize = np.array(self.roiSize) + 2* int(self.BgSizeEdit.text())  # s pixel each side
         for j in range(len(load)):
             print(j, load[j])
-        p = 0
+        p = 0 
 #        for i in range(len(self.molRoi)):  # np.arange(0, self.maxnumber):
 #            if i not in self.removerois:
 #                print(i,p)
