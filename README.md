@@ -49,7 +49,7 @@ The graph does not load correctly on file selection; moving the slider is requir
 
 The green and red zones are collapsed to one side of the graph.
 
-##N anoDrop_read_data.py
+## NanoDrop_read_data.py
 
 This is a very manual script with no user interface, designed for a quick plot of data from a NanoDrop spectrophotometer. It can also calculate the peak of the spectra. The script uses a Savitzky-Golay filter to remove high-frequency noise and saves the generated plots.
 
