@@ -1,7 +1,8 @@
-PhD Data Analysis Scripts
+# PhD Data Analysis Scripts
+
 This repository contains a collection of Python scripts developed during my PhD for specific data analysis tasks. These tools were created for personal use and may not adhere to standard software development practices. They are shared here for historical record and as a reference of the work done.
 
-Files
+# Files
 Below is a brief description of each of the Python scripts included in this repository.
 
 
